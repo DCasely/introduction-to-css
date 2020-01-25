@@ -1,0 +1,29 @@
+body {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+ul {
+  color: blue;
+}
+
+li {
+  color: orange;
+}
+
+.highlight {
+  color: yellow;
+}
+
+#special {
+  color: pink;
+}
+
+/* Type Selectors are the LEAST Specific */
+
+/* Class, Attributes, and Pseudo-Class Selectors are MORE SPECIFIC than Type Selectors but LESS SPECIFIC than ID Selectors */
+
+/* ID Selectors are the MOST SPECIFIC SELECTORS */
